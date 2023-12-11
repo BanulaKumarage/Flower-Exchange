@@ -1,5 +1,5 @@
 Execution_Rep.csv
 Order ID,Client Order ID,Instrument,Side,Exec Status,Quantity,Price,Reason,Transaction Time
-ord1,aa13,Rose,2,0,100,55.00,,20231211-174918.610
-ord2,aa14,Rose,2,0,100,45.00,,20231211-174918.610
-ord3,aa15,Rose,1,0,100,35.00,,20231211-174918.610
+ord1,aa13,Rose,2,0,100,55.00,,20231211-175105.023
+ord2,aa14,Rose,2,0,100,45.00,,20231211-175105.023
+ord3,aa15,Rose,1,0,100,35.00,,20231211-175105.023

@@ -1,7 +1,7 @@
 Execution_Rep.csv
 Order ID,Client Order ID,Instrument,Side,Exec Status,Quantity,Price,Reason,Transaction Time
-ord1,aa13,,1,1,100,55.00,Invalid instrument,20231211-175105.032
-ord2,aa14,Rose,3,1,100,65.00,Invalid side,20231211-175105.032
-ord3,aa15,Lavender,2,1,101,1.00,Invalid size,20231211-175105.032
-ord4,aa16,Tulip,1,1,100,-1.00,Invalid price,20231211-175105.032
-ord5,aa17,Orchid,1,1,1000,-1.00,Invalid price,20231211-175105.032
+ord1,aa13,,1,1,100,55.00,Invalid instrument,20231213-163924.991
+ord2,aa14,Rose,3,1,100,65.00,Invalid side,20231213-163924.991
+ord3,aa15,Lavender,2,1,101,1.00,Invalid size,20231213-163924.991
+ord4,aa16,Tulip,1,1,100,-1.00,Invalid price,20231213-163924.991
+ord5,aa17,Orchid,1,1,1000,-1.00,Invalid price,20231213-163924.991
